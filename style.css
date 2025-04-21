@@ -1,0 +1,128 @@
+
+body{
+	background-color: #202e23;
+	font-family: 'Source Sans 3', sans-serif;
+	font-weight: 800;
+
+}
+
+h1{
+    line-height: 0;
+    color: #fff;
+    margin-left: 30px;
+	padding-top: 50px ;
+    font-size: 80px;
+
+}
+
+h2{
+	margin-left: 30px;
+	color: #fff;
+	font-family: 'Questrial', sans-serif;
+	font-size: 35px;
+	color: #ed6040;
+
+}
+
+h3 {
+	margin-top: 20px;
+	color: #fff;
+	font-size: 20px;
+	font-family: 'Questrial', sans-serif;	
+
+
+}
+
+p {
+	padding: 30px;
+	font-size: 25px;
+	color: #fff;
+	font-family: 'Questrial', sans-serif;
+	font-weight: 600;
+	line-height: 50px;
+
+}
+
+.navBar{
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 500;
+	text-align: right;
+    position: fixed;
+    right: 90px;
+}
+
+.navItem {
+    color: #fff;
+    font-size: 25px;
+    width: 600px;
+	display: inline;
+	text-decoration: none;
+	padding: 30px;
+
+}
+
+.homeImage{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%; 
+	padding-bottom: 50px;
+}
+
+.homeInfo{
+	margin-left: 80px ;
+	margin-right: 80px;
+}
+
+.highlighted{
+	color: #fa9d5a;
+}
+
+.factLine{
+	margin-top: 50px;
+	margin-left: 50px;
+	font-size: 28px;
+	color:#f7c46a ;
+}
+
+.factBlurb{
+	margin-left : 80px;
+	margin-right: 80px;
+	margin-bottom: 50px;
+	color: #fff;
+}
+
+#sloganTop {
+	margin-left: 31px;
+	font-size: 70px; 
+}
+#sloganBottom {
+	padding-top: 30px;
+	font-size: 90px;
+	margin-left: 30px; 
+	color: #ed6040;
+}
+
+.efforts{
+	width: 320px;
+	height: 600px;
+	display: inline-block;
+	padding: 30px;
+	background-color:  rgba(69, 99, 75,0.3);
+	border-radius: 5px;
+	margin: 50px;
+	text-align: center;
+	 vertical-align:top
+
+}
+.effortsTitle{
+		font-size: 30px;
+		color: #abcfab;
+		margin-bottom: 0px ;
+}
+
+.effortsBlurb{
+	text-align: left;
+	font-size: 20px;
+	padding: 10px;
+}
